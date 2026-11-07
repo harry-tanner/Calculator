@@ -1,2 +1,2 @@
 # Calculator
-Advanced calculator made in python, can solve quadratics, volume, simultaneous equtions etc
+Advanced calculator made in python, can solve quadratics, binary and denary convesions, simultaneous equtions etc
